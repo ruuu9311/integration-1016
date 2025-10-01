@@ -20,3 +20,21 @@
 + Create new repository
 + copy the instruction*3 and paste to VS code terminal
 + execute
+
+#SELCT
+SELECT id,name FROM product_inti
+WHERE id ='2';
+
+#INSERT
+INSERT INTO"main"."product_inti"
+("name","version","remark")
+VALUES('Laptop','ASUS','U R ASUS')
+
+#UPDATE
+UPDATE product_inti
+SET NAME = 'IPHONE',version='18.3'
+WHERE id=1;
+
+#DELETE
+SELECT * FROM product_inti
+WHERE ID='3';
