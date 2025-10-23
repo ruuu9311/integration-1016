@@ -15,3 +15,16 @@
 - git push -u origin main
 - check status of the new github respostitory
 
+# midterm exam
+- application: git, git-lfs. db browser for sqlite
+- file donwload: VScode installer
+- tkinker
+- python
+- sqlite
+- github
+- jira
+-- create story
+-- start sprint
+-- connect jira and github
+
+tips:you can browse your respository
